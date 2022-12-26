@@ -1633,3 +1633,9 @@ section {
 #footer .credits {
   font-size: 13px;
 }
+
+
+#separator{
+  height: 20px;
+  background-color: black;
+}
